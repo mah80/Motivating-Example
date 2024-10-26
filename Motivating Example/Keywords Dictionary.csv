@@ -1,0 +1,7 @@
+studentName,studentId,studentEmail,studentPhoneNumber,studentGrade,grade
+email,instructorName,instructorEmail,A_Plus,A+,A_Minus
+A-,B_Plus,B+,B_Minus,B-,C_Plus
+C+,C_Minus,C-,D_Plus,D+,D_Minus
+D-,F,fail,phoneNumber,username,password
+usrnm,userName,usrNm,usrName,username,usrnm
+doB,birthdate,password,pwd,passwd,psword
